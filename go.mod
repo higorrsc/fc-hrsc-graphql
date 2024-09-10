@@ -1,4 +1,4 @@
-module github.com/devfullcycle/13-GraphQL
+module github.com/higorrsc/fc-hrsc-graphql
 
 go 1.19
 
