@@ -1,0 +1,17 @@
+{
+  "cSpell.words": [
+    "autobind",
+    "github",
+    "gqlgen",
+    "graphqls",
+    "higorrsc",
+    "hrsc",
+    "mattn",
+    "modelgen",
+    "sqlite",
+    "struct",
+    "structs",
+    "uuid"
+  ],
+  "editor.rulers": [80, 120]
+}
